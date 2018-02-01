@@ -1,0 +1,13 @@
+How to run Ruby:
+$ irb         (interactive command line)
+
+$ rails console  (inside a Rails project)
+
+Run the an .rb file 
+
+Calling a ruby program inside irb   
+        require   ‘./myfile.rb’
+
+$ ssh-keygen -t rsa -C "akonrad@mills.edu"
+$ cat ~/.ssh/id_rsa.pub 
+$ git clone git@bitbucket.org:almudenakonrad/rubycodecs170.git 
